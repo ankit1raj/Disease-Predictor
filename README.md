@@ -1,0 +1,2 @@
+# Disease-Predictor
+The core objective of this project is to implement data mining techniques Decision Tree and Random Forest that classifies the disease as per the input of the user and to develop web interface platform for the prediction of the disease .This project aims to provide a web platform to predict the occurrences of disease on the basis of various symptoms. The user can select various symptoms and can find the diseases with their probabilistic figures.
